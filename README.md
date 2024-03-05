@@ -1,1 +1,2 @@
-# House-Price-Regression_STAT306
+# Investigating the Most Influential Factors on House Prices
+Our incentive for analyzing this dataset is to disentangle the myth surrounding the elevated real estate prices. Specifically, we want to investigate the associations between each of the explanatory variables and house price and to determine which of these factors influences house price the most. Furthermore, we will also utilize these data to construct an inferential model capable of explaining the relationship between house price and various explanatory variables in the dataset, based on the available information. 
